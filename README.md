@@ -1,4 +1,4 @@
-## 👋 Hi, I’m @ei-sugimoto
+## 👋 Hi, There
 - B4
 - SWE(Web Development)
 - My favorite languages are typescript, Cuda C/C++.
