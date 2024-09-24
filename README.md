@@ -4,7 +4,7 @@
 - 🧑‍💻 I'm SWE.
 - 🌱 I’m currently learning go!
 - 📫 How to reach me: [Twitter - @L8YIJT9OaA38192](https://x.com/L8YIJT9OaA38192)
-- 🥴 My homepage: [https://gortfolio-e4dul784l-ei-sugimotos-projects.vercel.app/](https://gortfolio.vercel.app/)
+- 🥴 My homepage: (https://gortfolio.vercel.app/)
 <br>
 
 
